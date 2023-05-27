@@ -1,0 +1,21 @@
+body {
+  // background-image: linear-gradient(to right, #171717, #444444);
+  background-color: #171717;
+  color: #bdbdbd;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: gray;
+}
