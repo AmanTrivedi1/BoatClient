@@ -23,13 +23,13 @@ This is a boat store that build with headless cms (Stripe)
 | Name                             | Keys               |
 | -------------------------------- | ------------------ |
 | REACT_APP_STRIPE_DEV_APP_KEY     | ################## |
-| REACT_APP_STRIPE_PROD_APP_KEY    | #################  |
+| REACT_APP_STRIPE_PROD_APP_KEY    | ################## |
 | REACT_APP_STRIPE_APP_DEV_URL     | ################## |
-| REACT_APP_STRIPE_APP_PROD_URL    | #################  |
-| REACT_APP_STRIPE_PUBLISHABLE_KEY | #################  |
+| REACT_APP_STRIPE_APP_PROD_URL    | ################## |
+| REACT_APP_STRIPE_PUBLISHABLE_KEY | ################## |
 
 ### You will need Strapi dashboard
 
-Go to my repo find BoadDashboard clone it add ebv that mestion there and run with npm rundevelop add credentials go to go.
+Go to my repo find BoadDashboard clone it add env ass given good to go.
 
 <!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
